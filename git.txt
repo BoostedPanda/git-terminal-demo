@@ -1,0 +1,13 @@
+git init - Initerar Git-repository
+
+git add - förbereder filer för att skickas. (lägger in innehåll i packet)
+
+git commit - slår ihop filer i ett paket och lägger en innehållsförteckning.
+
+git status - nuvarande status i vår git-repository
+
+git log - logg över commits
+
+git push - skickar paketet till t.ex github
+
+git pull - hämta kod från github
